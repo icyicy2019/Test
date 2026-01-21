@@ -1,11 +1,13 @@
 .tieude {
-  color: tomato;
+  color: red;
   font-weight: bold;
-  font-size: 25pt;
+  font-size: 18pt;
+  padding: 2;
 }
 
 .noidung {
   color: black;
   font-weight: normal;
   font-size: 14pt;
+  padding: 4;
 }

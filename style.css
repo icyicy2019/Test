@@ -28,6 +28,16 @@
   background-color: darkgray;
 }
 
+.menu a{
+  padding: 15px 20px;
+  color: blue;
+}
+
+.menu hover{
+  background-color: lightgray;
+  color: red;
+}
+
 .content{
   flex: 70%;
   background-color: white;

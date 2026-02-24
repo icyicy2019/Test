@@ -11,3 +11,28 @@
   font-size: 14pt;
   padding: 4;
 }
+
+.conterner{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.header{
+  flex: 15%;
+  background-color: lightgray;
+}
+
+.menu{
+  flex: 5%;
+  background-color: darkgray;
+}
+
+.content{
+  flex: 70%;
+  background-color: white;
+}
+
+.footer{
+  flex: 10%;
+}

@@ -32,8 +32,7 @@
   padding: 15px 20px;
   color: blue;
 }
-
-.menu hover{
+.menu a:hover{
   background-color: lightgray;
   color: red;
 }
